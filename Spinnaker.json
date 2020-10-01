@@ -50,7 +50,7 @@
                   "spec": {
                     "containers": [
                       {
-                        "image": nginx,
+                        "image": "nginx",
                         "imagePullPolicy": "Always",
                         "name": "sample"
                       }
